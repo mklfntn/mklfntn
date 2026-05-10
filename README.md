@@ -34,8 +34,9 @@ stack = {
 ### Thinking about
 
 - LLMs as the query layer over the warehouse — not chatbots, not text-to-SQL demos, but agents wired into real operational data.
-- What "self-serve analytics" looks like when the interface is a sentence.
-- The half-life of a dashboard.
+- Using LLMs for narrative and story-telling.
+- The half-life of a dashboard. If dashboards decay fast, the cost isn't building them, it's maintaining them.
+- Analytics as a system with maintenance cost, not a deliverable
 
 ### Reach me
 

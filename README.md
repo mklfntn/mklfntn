@@ -7,7 +7,7 @@ I came to analytics through an unconventional path and learned by building, whic
 ### Now
 
 - Leading data and analytics at The Digital Stronghold.
-- Running scheduled Python pipelines that move data from Redshift, Shopify, and NetSuite into the places people actually look.
+- Running scheduled Python pipelines that move data from Redshift, Shopify, and NetSuite into the places people actually look, across a five-brand portfolio.
 - Wiring LLMs into the workflows that used to need a meeting.
 
 ### Currently running
@@ -19,7 +19,7 @@ stack = {
     "orchestration": "APScheduler on Heroku",
     "outputs":       ["Google Sheets", "Slack", "Asana", "email"],
     "upstream":      ["Shopify (ShopifyQL)", "NetSuite (SuiteQL)"],
-    "ai":            ["Claude", "OpenAI", "tool use", "structured output"],
+    "ai":            ["Claude Code", "custom skills", "tool use", "structured output"],
 }
 ```
 
@@ -30,6 +30,7 @@ stack = {
 - The best dashboard is the one that doesn't need to exist.
 - Optimize for "didn't have to ask" over "found it on page 3."
 - Self-taught. Still learning by shipping.
+- A repeated analytics task becomes a Claude Code skill, not a one-off prompt.
 
 ### Thinking about
 

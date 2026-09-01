@@ -7,7 +7,7 @@ I came to analytics through an unconventional path and learned by building, whic
 ### Now
 
 - Leading data and analytics at The Digital Stronghold.
-- Running scheduled Python pipelines that move data from Redshift, Shopify, and NetSuite into the places people actually look, across a five-brand portfolio.
+- Running scheduled Python pipelines that move data from Redshift, Shopify, and NetSuite into the places people actually look, across a six-brand portfolio.
 - Wiring LLMs into the workflows that used to need a meeting.
 
 ### Currently running
